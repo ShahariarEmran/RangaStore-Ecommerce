@@ -1,3 +1,4 @@
+/* main part  */
 body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
@@ -35,6 +36,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+/* cart part  */
 .single-product {
   padding: 10px;
   transition: 0.6s;
